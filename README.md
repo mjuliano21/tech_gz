@@ -87,6 +87,13 @@ tech_gz/
   ├── docker-compose.yml
   └── ...
 ```
+## Distribuições das portas
+
+As portas foram  configurado da seguinte forma:
+Frontend: 3000;
+Backend: 5000;
+Postgre: 5432 (padrão);
+PgAdmin: 5050 (padrão) -- adicionado aos container para facilitar a verificação da persistencia dos dados.
 
 ## Considerações Finais
 
