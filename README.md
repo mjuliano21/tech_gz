@@ -92,7 +92,7 @@ tech_gz/
 
 ## Considerações Finais
 
-Este desafio foi uma oportunidade para aprender e explorar tecnologias como React e Node.js. Vale ressaltar que, por ser minha primeira experiência com React, pode haver espaço para melhorias e utilização de padrões mais avançados.
+Este desafio foi uma oportunidade para aprender e explorar tecnologias como React e Node.js. Vale ressaltar que, por ser minha primeira experiência com React(Buscando migrar para outras linguagens), pode haver espaço para melhorias e utilização de padrões mais avançados.
 
 Sinta-se à vontade para explorar o código e fornecer qualquer feedback ou sugestões de melhorias.
 
