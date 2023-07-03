@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  backend:
+    env_file:
+        "./api/env"
+    build:
+      context: ./api-backend
+      dockerfile: ./Dockerfile
+    image: "mrfritz/gz_tech:gz_api"
+    ports:
+      - "5000:5000"
+  frontend:
+    build:
+      context: ./app
+      dockerfile: ./Dockerfile
+    image: "mrfritz/gz_tech:gz_app"
+    ports:
+      - "3000:3000"
+    links:
+      - "api"
