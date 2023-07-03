@@ -66,7 +66,7 @@ A estrutura do projeto está organizada da seguinte forma:
 
 ```
 tech_gz/
-  ├── backend/
+  ├── api/
   │   ├── src/
   │   │   ├── controllers/
   │   │   ├── models/
@@ -75,7 +75,7 @@ tech_gz/
   │   ├── Dockerfile
   │   ├── package.json
   │   └── ...
-  ├── frontend/
+  ├── app/
   │   ├── src/
   │   │   ├── components/
   │   │   ├── pages/
