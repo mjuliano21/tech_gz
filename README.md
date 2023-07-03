@@ -1,5 +1,3 @@
-Ótimo! Agora tenho informações suficientes para criar o README do seu projeto. Aqui está um exemplo de como o README pode ser estruturado:
-
 # Desafio FullStack - Gazin<Tech>
 
 Este é o meu projeto de resolução do desafio FullStack da Gazin<Tech>. Consiste em uma aplicação de cadastro de desenvolvedores associados a níveis, com um backend desenvolvido em Node.js utilizando o framework Express.js e um frontend em React.
