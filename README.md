@@ -89,14 +89,3 @@ Este desafio foi uma oportunidade para aprender e explorar tecnologias como Reac
 Sinta-se à vontade para explorar o código e fornecer qualquer feedback ou sugestões de melhorias.
 
 Agradeço a oportunidade e consideração.
-
-## Contato
-
-Se tiver alguma dúvida ou precisar de mais informações, fique à vontade para entrar em contato:
-
-- Nome: [Seu Nome]
-- E-mail: [Seu E-mail]
-
-Esse é apenas um exemplo de como o README pode ser estruturado. Sinta-se à vontade para adicionar informações adicionais, como requisitos de instalação local, exemplos de uso ou qualquer outra informação relevante para os avaliadores.
-
-Lembre-se de substituir as seções com as informações reais do seu projeto. Espero que isso ajude você a criar um README adequado para o seu projeto!
