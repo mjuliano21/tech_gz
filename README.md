@@ -4,12 +4,18 @@
 
 Este é o meu projeto de resolução do desafio FullStack da Gazin<Tech>. Consiste em uma aplicação de cadastro de desenvolvedores associados a níveis, com um backend desenvolvido em Node.js utilizando o framework Express.js e um frontend em React.
 
-## Funcionalidades
+# Funcionalidades
 
-- Listar níveis existentes
-- Cadastrar, editar e remover níveis
-- Listar desenvolvedores existentes
-- Cadastrar, editar e remover desenvolvedores
+O projeto possui as seguintes funcionalidades:
+
+# Backend
+Listar níveis existentes: O backend fornece um endpoint que retorna uma lista de todos os níveis cadastrados no sistema.
+Cadastrar, editar e remover níveis: O backend disponibiliza endpoints para realizar as operações de criação, edição e remoção de níveis.
+Listar desenvolvedores existentes: O backend possui um endpoint para listar todos os desenvolvedores registrados no sistema.
+Cadastrar, editar e remover desenvolvedores: O backend oferece endpoints para realizar as operações de cadastro, edição e remoção de desenvolvedores.
+
+# Frontend
+O frontend foi desenvolvido como uma Single Page Application (SPA) utilizando o React. Ele consome os endpoints disponibilizados pelo backend e oferece uma interface amigável para interagir com as funcionalidades do sistema.
 
 ## Tecnologias Utilizadas
 
@@ -17,9 +23,10 @@ Este é o meu projeto de resolução do desafio FullStack da Gazin<Tech>. Consis
 
 - Node.js
 - Express.js
-- Prisma
+- Prisma - ORM (Object Relational Mapping) para Node.js, utilizado para lidar com o banco de dados, nesse projeto utilizei apenas para subir o banco no container.
 - Docker
 - PostgreSQL
+- Yarn
 
 ### Frontend
 
@@ -27,6 +34,7 @@ Este é o meu projeto de resolução do desafio FullStack da Gazin<Tech>. Consis
 - Styled Components
 - Babel
 - Docker
+- Yarn
 
 ## Rodando a Aplicação
 
