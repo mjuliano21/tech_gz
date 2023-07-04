@@ -33,6 +33,10 @@ O frontend foi desenvolvido como uma Single Page Application (SPA) utilizando o 
 - Babel
 - Docker
 - Yarn
+  
+## Acessando aplicação publicada no AWS
+
+http://15.228.48.2:3000/
 
 ## Rodando a Aplicação
 
