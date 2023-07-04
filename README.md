@@ -38,7 +38,7 @@ O frontend foi desenvolvido como uma Single Page Application (SPA) utilizando o 
 
 http://15.228.48.2:3000/
 
-## Rodando a Aplicação
+## Rodando a Aplicação local
 
 Certifique-se de ter o Docker instalado em sua máquina.
 
